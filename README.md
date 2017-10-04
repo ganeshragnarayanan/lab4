@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android Navigation Drawer Exercise
 
 Android app to use as the base app for implementing material design style navigation drawer.
@@ -22,3 +23,6 @@ This app is intended to be the base project on top of which new features can be 
 3. Open the drawer by clicking on the hamburger menu in the `Actionbar`.
 4. Handle drawer item click events and replace the main content area with the corresponsing fragment.
 5. Add custom background for selected drawer item.
+=======
+# lab4
+>>>>>>> 4a78a948c02487d8d9eff69e21551654adaa3789
